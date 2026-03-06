@@ -1,0 +1,3 @@
+pydub
+numpy
+PyQt5
